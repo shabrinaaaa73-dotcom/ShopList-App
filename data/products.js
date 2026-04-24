@@ -185,7 +185,7 @@ export const products = [
     category: 'Monitor',
     price: 16999000,
     rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1527443224154-c4a573d5b328?w=400',
+    image: 'https://images.unsplash.com/photo-1635976457744-900f79574c3d?w=400',
     emoji: '🖥️',
     sold: 140,
     badge: null,
